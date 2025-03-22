@@ -1,0 +1,17 @@
+
+Trial 1 Sample Text (Config: {'lr': 0.003, 'batch_size': 64, 'seq_length': 50, 'hidden_size': 256, 'dropout': 0.0, 'num_epochs': 10, 'num_layers': 1}):
+the and wy staticate —i was minis with the demistrom for michal would be able to skate the tond ey’s thearesfolk this todlene.
+they putture a two thing cameroal photo not there it, switch of the tations a lot of worst base of more also filming and then also art. the hopiken parke about ten m go hard to have your advick rrood bs mains anymore and you get no naker, it’s the first et on thoses. you can?
+i was king out elcry rood.
+like it really hook a long squarce to evan. the home for a big autau’ cov
+==================================================
+
+Trial 2 Sample Text (Config: {'lr': 0.001, 'batch_size': 128, 'seq_length': 150, 'hidden_size': 512, 'dropout': 0.0, 'num_epochs': 10, 'num_layers': 1}):
+the already made me looss to call the spots in copace and massess up finally to just feel anything. i keep the bet’s grateboarding as it can see and often most one well-1-down-tastever shacking johnnon start locals, rememberworld, and the other day they didn’t care you??
+i’m notieces. genevable that was getting i decade is to my age. just 11lm pete sets and each skater. i was split this seeme, and reploded, that the skater is moard to instructing pro skate parkers were really line, i’ve been relaced
+==================================================
+
+Trial 3 Sample Text (Config: {'lr': 0.001, 'batch_size': 128, 'seq_length': 150, 'hidden_size': 512, 'dropout': 0.1, 'num_epochs': 10, 'num_layers': 3}):
+the alppind a lot of plans or trying to see me beginning out to toike well a bowl with a kind of interpensions and potentially trying to get preserved the design and as they are a lot of footage gets settred with my friends’ so he’s avoiding the three strémins skateboarders will be done, because you can go from than old you view and warsaw numeror plazaster’s face
+both and that’s few sorts of shit. you got into rice you crowked, and then you’re a visiting a year old, i tried to kill it all ng on an 
+==================================================

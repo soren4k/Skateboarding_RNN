@@ -1,0 +1,46 @@
+
+Trial 1 Sample Text (Config: {'lr': 0.001, 'batch_size': 128, 'seq_length': 150, 'hidden_size': 512, 'num_epochs': 10, 'num_layers': 2, 'dropout': 0}):
+the their tricks – and christian sessions were people with my moments of teacher in a spot where i relled sports center and as we get the more dennect out and get the full, because he still this might have moved. apparently the part of the things, kids through the homies.
+i am super-read that 101 weed on the spots even in the trip?
+yeah.
+i put it a half there, you don’t love it on.
+where is this sponsorship and moval never really feeling those
+grabbie
+, nope, is the generaly! so the ability to oper 
+==================================================
+
+Trial 2 Sample Text (Config: {'lr': 0.001, 'batch_size': 128, 'seq_length': 150, 'hidden_size': 512, 'num_epochs': 10, 'num_layers': 2, 'dropout': 0.1}):
+the with the city even it wasn’t putting small oplified. all day!
+after this, the thing you can ask by different associal rashing down a silver with surprise and he had cut. no, he was so the internative, if they figure idios since i missing them.’ sometimes then i was there… echanjection beyfger, i’ll not have to get leg to get stuff because that much i’ve ended up pushed all the bothood one…’ i think that they both said this was here that indeed. that specific plain, i had something across the fac
+==================================================
+
+Trial 3 Sample Text (Config: {'lr': 0.001, 'batch_size': 128, 'seq_length': 150, 'hidden_size': 512, 'num_epochs': 10, 'num_layers': 2, 'dropout': 0.3}):
+the shift for years. i’m travelling the video wanted to be honest. i love this beat up to core from two years on ponter street part of his way of the new practice so just to be right down the ‘be a bunch.’ so i was five toughslave downtown up until i want to skate i moved early. and he keeps crazy, staying there and it’s safe. that’s sequence awkward. it seems looked so hucking a kid. we just like shooting. volunteers in skateboarding about we skate with him in our ateasy and it’s a crew bombaklats 
+==================================================
+
+Trial 4 Sample Text (Config: {'lr': 0.001, 'batch_size': 128, 'seq_length': 150, 'hidden_size': 512, 'num_epochs': 10, 'num_layers': 2, 'dropout': 0.5}):
+the class went a tight life and they were a treated and all some guys camps and it also had to a chance next. it’s kind of slah about him. well coming with really milker, site and since any day everywhere. he was strangely and relationship in the police assade. after themselves do it so kateparks, but everyone was very more were so playing me, but there was the second parts i didn’t make a good day of it pavilion and finished these personally hard to readly now, but he really made me to it. my drop’
+==================================================
+
+Trial 5 Sample Text (Config: {'lr': 0.001, 'batch_size': 128, 'seq_length': 150, 'hidden_size': 512, 'num_epochs': 10, 'num_layers': 3, 'dropout': 0}):
+the he just trying to build the dark blmb i dunno (adament and amazing). i guess it is for care out of the festivals than when it seems like you’re currently and i’d seould really green glassing so there was to the downging box or it will believed in services. (lines on me me against a banger crook visition? anything, basically he should be this line out point, or at what some lights and dark shat’s getting myself from the camping basis. and is that you get this during the same moon and buildings ov
+==================================================
+
+Trial 6 Sample Text (Config: {'lr': 0.001, 'batch_size': 128, 'seq_length': 150, 'hidden_size': 512, 'num_epochs': 10, 'num_layers': 3, 'dropout': 0.1}):
+the i’ve actually thought about rzy boards. just being a skate shop shove project, that’s mostly really a lot of the custom. the takes now after a geoff kada is a whole close friend part, even imagined some last ones when it gave us and videos man.
+how did you give the end another brands feel the big can be on that?
+all gre the states were kickin’ flow off. they were important to the they weren’t so during the advice and learn all day if she’ll. trying to be thinking go. and we will, the last thing 
+==================================================
+
+Trial 7 Sample Text (Config: {'lr': 0.001, 'batch_size': 128, 'seq_length': 150, 'hidden_size': 512, 'num_epochs': 10, 'num_layers': 3, 'dropout': 0.3}):
+the page!
+or puns ways your favorite its sick school in?
+new york for the nice times under. this station that must stand my filmers, i think i can’t realized we got him back here: of the weeks. the photo was been fancy, it went up to change pretty such my first trip – i’m hutting you. and these bottle you’ve always remember a curity, dan’s you. so it was just this darkroom. so also you got you. considering this out out getting out?
+well, after they approached in love new and i needed even how i actu
+==================================================
+
+Trial 8 Sample Text (Config: {'lr': 0.001, 'batch_size': 128, 'seq_length': 150, 'hidden_size': 512, 'num_epochs': 10, 'num_layers': 3, 'dropout': 0.5}):
+the time yourof the kid?
+ha ha. so he was just taking their good steirs just bump for like, skate-mattroe’s people i won’t go there that weren’t well.
+i remember that where skaters tood quite morbinary when you look with gyle expenf catalage, because it alr after we’re good (you didn’t use those industry, more to kcown his footage of the way that we would skate the most norwegian scene for her skaters got that they want to skated! we could get you around the video part is a community you can see who
+==================================================
